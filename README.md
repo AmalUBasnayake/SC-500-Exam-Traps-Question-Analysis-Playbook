@@ -222,20 +222,8 @@ Then compare the remaining options against the scenario.
 # 📚 Part of the SC-500 Learning Journey
 
 <div align="center">
-
-```text
-01. COMPLETE STUDY NOTES
-        ↓
-   Learn the material
-        ↓
-02. EXAM TRAPS & PLAYBOOK
-        ↓
-   Learn how to apply it
-        ↓
-03. HANDS-ON LABS
-        ↓
-   Validate through practice
-```
+  
+ <img src="assets/SC-500-Learning-Journey-Roadmap.png" alt="Part of the SC-500 Learning Journey" width="100%">
 
 </div>
 
