@@ -278,7 +278,7 @@ https://amalcyberlab.vercel.app
 
 <div align="center">
   
- <img src="assets/SMicrosoft-Security-Engineering-Mindset-Infographic.png" alt="Engineering Mindset" width="100%">
+ <img src="assets/Microsoft-Security-Engineering-Mindset-Infographic.png" alt="Engineering Mindset" width="100%">
 
 </div>
 
