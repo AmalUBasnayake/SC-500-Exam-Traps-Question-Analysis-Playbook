@@ -136,8 +136,8 @@ categories.
 | "temporary elevation" | PIM eligible assignment |
 | "without storing credentials" | Managed Identity |
 | "shared by many resources" | User-assigned Managed Identity |
-| "block deployment" | Azure Policy — Deny |
-| "report only" | Azure Policy — Audit |
+| "block deployment" | Azure Policy - Deny |
+| "report only" | Azure Policy - Audit |
 | "automatically fix existing resources" | DeployIfNotExists / Modify + remediation |
 | "on-premises clients must connect" | Private Endpoint |
 | "hide a column even from administrators" | Always Encrypted |
