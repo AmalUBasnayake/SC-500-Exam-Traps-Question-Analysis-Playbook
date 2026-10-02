@@ -68,19 +68,6 @@ requirements actually constrain the answer.
 
 <img src="assets/Core-principle.png" alt="Core principle" width="100%">
 
-
-```text
-READ
-  ↓
-IDENTIFY CONSTRAINTS
-  ↓
-CLASSIFY THE ASK
-  ↓
-ELIMINATE VIOLATORS
-  ↓
-CHOOSE THE BEST-FIT CONTROL
-```
-
 A key technique is to eliminate options that violate the scenario
 constraints **before** judging whether the remaining options are
 technically correct.
