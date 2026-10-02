@@ -276,21 +276,11 @@ https://amalcyberlab.vercel.app
 
 # 🛡️ Engineering Mindset
 
-```text
-Understand the requirement
-        ↓
-Identify constraints
-        ↓
-Define the security objective
-        ↓
-Evaluate available controls
-        ↓
-Reduce unnecessary exposure
-        ↓
-Select the most appropriate control
-        ↓
-Validate the implementation
-```
+<div align="center">
+  
+ <img src="assets/SMicrosoft-Security-Engineering-Mindset-Infographic.png" alt="Engineering Mindset" width="100%">
+
+</div>
 
 **Exam technique → Security engineering thinking**
 
