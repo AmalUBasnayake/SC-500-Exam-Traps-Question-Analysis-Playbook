@@ -2,27 +2,38 @@
 
 <img src="assets/sc500-playbook-banner.png" alt="SC-500 Exam Traps & Question-Analysis Playbook" width="100%">
 
-<br><br>
+<br>
 
-# 🧠 SC-500 Exam Traps & Question-Analysis Playbook
+<h1>🧠 SC-500 Exam Traps & Question-Analysis Playbook</h1>
 
-### How to Read an SC-500 Question - And Catch the Trap Before It Catches You
+<h3>How to Read an SC-500 Question - And Catch the Trap Before It Catches You</h3>
 
+<p>
 A practical exam-technique guide for reading, analyzing, and solving
 scenario-based Microsoft SC-500 questions under exam conditions.
+</p>
 
 <br>
 
-[![SC-500](https://img.shields.io/badge/Microsoft-SC--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/credentials/certifications/exams/sc-500/)
-[![Cloud & AI Security](https://img.shields.io/badge/Focus-Cloud%20%26%20AI%20Security-00A4EF?style=for-the-badge)](#)
-[![20 Pages](https://img.shields.io/badge/Guide-20%20Pages-6F42C1?style=for-the-badge)](#)
-[![Exam Technique](https://img.shields.io/badge/Type-Exam%20Technique-8A2BE2?style=for-the-badge)](#)
-[![Scenario Based](https://img.shields.io/badge/Focus-Scenario%20Based-198754?style=for-the-badge)](#)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+<a href="https://learn.microsoft.com/credentials/certifications/exams/sc-500/">
+<img src="https://img.shields.io/badge/Microsoft-SC--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+</a>
 
-<br>
+<img src="https://img.shields.io/badge/Focus-Cloud%20%26%20AI%20Security-00A4EF?style=for-the-badge">
 
-**Read → Identify Constraints → Classify → Eliminate → Choose**
+<img src="https://img.shields.io/badge/Guide-20%20Pages-6F42C1?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Type-Exam%20Technique-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Focus-Scenario%20Based-198754?style=for-the-badge">
+
+<a href="LICENSE">
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+</a>
+
+<br><br>
+
+<strong>Read → Identify Constraints → Classify → Eliminate → Choose</strong>
 
 </div>
 
@@ -35,7 +46,7 @@ The **SC-500 Exam Traps & Question-Analysis Playbook** is a practical
 how exam questions are structured and how to approach them using a
 repeatable reasoning process.
 
-Knowing the Azure security services is necessary — but SC-500 questions
+Knowing the Azure security services is necessary - but SC-500 questions
 can require you to apply that knowledge under a **specific, narrow
 constraint**.
 
@@ -62,11 +73,13 @@ SC-500 questions commonly combine:
 The guide teaches you to separate these elements and identify which
 requirements actually constrain the answer.
 
-### Core principle
+### Core Principle
 
 <div align="center">
 
-<img src="assets/Core-principle.png" alt="Core principle" width="100%">
+<img src="assets/Core-principle.png" alt="SC-500 Core Principle" width="85%">
+
+</div>
 
 A key technique is to eliminate options that violate the scenario
 constraints **before** judging whether the remaining options are
@@ -115,7 +128,7 @@ The playbook contains a **60+ phrase trigger-word dictionary** that
 connects common question wording with relevant security-control
 categories.
 
-Examples include:
+### Examples
 
 | Question wording | Direction |
 |---|---|
@@ -208,6 +221,8 @@ Then compare the remaining options against the scenario.
 
 # 📚 Part of the SC-500 Learning Journey
 
+<div align="center">
+
 ```text
 01. COMPLETE STUDY NOTES
         ↓
@@ -222,11 +237,19 @@ Then compare the remaining options against the scenario.
    Validate through practice
 ```
 
+</div>
+
 ---
 
 # 📥 Download the Playbook
 
-**[📘 Download the complete 20-page SC-500 Exam Traps & Question-Analysis Playbook](./SC-500-Exam-Traps-Question-Analysis-Playbook.pdf)**
+<div align="center">
+
+### 📘 Complete 20-Page PDF
+
+[**Download the SC-500 Exam Traps & Question-Analysis Playbook →**](./SC-500-Exam-Traps-Question-Analysis-Playbook.pdf)
+
+</div>
 
 ---
 
@@ -234,11 +257,32 @@ Then compare the remaining options against the scenario.
 
 ### 📘 SC-500 A-to-Z Study Notes
 
+Complete SC-500 study resource covering cloud security, identity,
+AI security, detection, response, and exam-focused preparation.
+
+🔗 **Repository:**  
 https://github.com/AmalUBasnayake/SC-500-Cloud-AI-Security-Engineer-Master-Guide
+
+---
 
 ### 🧪 SC-500 Hands-on Security Labs
 
+Practical Azure, Microsoft Sentinel, Defender, Entra ID, AI Security,
+and cloud-security labs designed to complement the study resources.
+
+🔗 **GitHub:**  
 https://github.com/AmalUBasnayake
+
+---
+
+### 🌐 Amal Cyber Lab - Security Portfolio
+
+Explore the broader cybersecurity portfolio, including Azure Security,
+Cloud & AI Security, SIEM/SOC, Microsoft Security, AI Security,
+and hands-on engineering projects.
+
+🔗 **Portfolio:**  
+https://amalcyberlab.vercel.app
 
 ---
 
@@ -266,11 +310,11 @@ Validate the implementation
 
 # 👤 Author
 
-<div align="center">
-
 ### Amal Udayanga Basnayake
 
 **IT & Systems Specialist | Cybersecurity | Cloud & AI Security**
+
+</div>
 
 Amal Udayanga Basnayake is an IT & Systems Specialist focused on
 cybersecurity, Azure security, cloud security, Microsoft security,
@@ -280,13 +324,23 @@ He builds practical security labs, study resources, and engineering
 playbooks focused on turning cybersecurity concepts into hands-on,
 scenario-driven security practice.
 
-BSc (Hons) Cyber Security (Top-Up) - University of Wolverhampton  
-*In Progress*
+### 🎓 Education
 
-BTEC HND Cybersecurity - Pearson
+- **BSc (Hons) Cyber Security (Top-Up)** - University of Wolverhampton  
+  *In Progress*
+- **BTEC HND Cybersecurity** - Pearson
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmalUBasnayake-181717?style=for-the-badge&logo=github)](https://github.com/AmalUBasnayake)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Amal%20Cyber%20Lab-00A4EF?style=for-the-badge)](https://amalcyberlab.vercel.app)
+### 🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/AmalUBasnayake">
+<img src="https://img.shields.io/badge/GitHub-AmalUBasnayake-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://amalcyberlab.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Amal%20Cyber%20Lab-00A4EF?style=for-the-badge">
+</a>
 
 </div>
 
